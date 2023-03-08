@@ -1,0 +1,2 @@
+master_only: Bu komut yalnızca ana komuttur. Önce "%{prefix}obey" komutunu çalıştırın.
+execution_error: Komut çalıştırılırken bir hata oluştu ve geliştiriciler bilgilendirildi. Lütfen daha sonra tekrar deneyiniz.

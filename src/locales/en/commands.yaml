@@ -1,0 +1,25 @@
+pong: Pong!
+slave_of: Şu anda %{master}'ın kölesiyim. (%{days}d %{hours}s %{ minutes}d %{seconds}s)
+obey_success: Şu andan itibaren, ne dersen yapacağım.
+bot_free: Şu anda boşum.
+become_free: Artık özgürüm. (%{days}d %{hours}s %{ minutes}d %{seconds}s)
+will_follow: seni takip edeceğim
+wont_follow: seni takip etmeyeceğim (%{days}d %{hours}s %{ minutes}d %{seconds}s)
+already_following: seni zaten takip ediyorum
+dont_see: seni göremiyorum
+coming: Yanına geliyorum.
+here_it_is: İşte buradayım.
+enter_block_name: Toplamamı istediğiniz bloğun tam adını girmelisiniz.
+invalid_block: Belirttiğiniz bloğu bulamadım. Bloğun tam Minecraft adını girin.
+blocks_collected: Blok(lar) başarıyla toplandı.
+is_acting: Şu anda bir şeyler yapıyorum. Beni sonra ara.
+wont_farm: Artık çiftçilik yapmayacağım. (%{days}d %{hours}s %{ minutes}d %{seconds}s)
+will_farm: %{crop} (%{seed}) ekeceğim.
+specify_crop: Bir kırpma adı belirtin.
+specify_valid_crop: Belirttiğiniz ürünü bulamadım. Kırpmanın tam Minecraft adını girin.
+specify_seed: Bir tohum adı belirtin.
+specify_valid_seed: Belirttiğiniz seed'i bulamadım. Tohumun tam Minecraft adını girin.
+no_chests_found: Yakınlarda sandık göremiyorum. Birkaç sandık yerleştirin ve "%{prefix}farm" komutunu tekrar kullanın.
+wont_guard: Artık seni korumayacağım. (%{days}d %{hours}s %{ minutes}d %{seconds}s)
+will_guard: seni koruyacağım
+reset: Bana daha önce söylediğin her şeyi yapmayı bıraktım ve başka bir komut bekliyorum.

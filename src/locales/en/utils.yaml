@@ -1,0 +1,5 @@
+no_blocks_nearby: O bloğu yakınlarda görmüyorum.
+found_blocks: %{count} blok bulundu, toplanmaya başlandı.
+no_chest_found: Yakınlarda sandık göremiyorum. Envanterim dolduğunda bana yardım etmen gerekebilir. (veya bazı sandıklar yerleştirin ve "%{prefix}chest" komutunu kullanın.)
+found_chest: Yakınlarda %{count} sandık görüyorum. Envanterim dolduğunda onları kullanacağım.
+chest_full: Tarım sandığı dolu. Boşaltın ve "%{prefix}farm" komutunu tekrar kullanın.
